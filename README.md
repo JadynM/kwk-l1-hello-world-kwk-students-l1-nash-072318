@@ -11,7 +11,10 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 3. Run a Ruby file.
 4. Run the Learn gem.
 5. Submit a Learn lab.
-
+6. Your mom 
+7. ghghhhhhhh
+8. Timmy Riggins
+9. 
 ## Instructions
 
 Get started by clicking the Open button in Learn. 
